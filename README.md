@@ -6,7 +6,7 @@
 ## So, from where are you studying?
  - I've started studying from the online book of [_Rust Programming Language_](https://doc.rust-lang.org/stable/book/) and it's my future plan to learn Rust in order to create a Game Engine to properly program it with Vulkan.
 
-## Topics that I've covered
+## Topics that I've covered so far
 
 - [x] The Rust Programming Language
 - [x] Foreword
